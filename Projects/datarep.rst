@@ -203,6 +203,8 @@ of the work by `Boyle & Cohen, 2008 <http://www.comp.leeds.ac.uk/jboyle/JordanBo
 We have an `approximately working version <http://www.opensourcebrain.org/projects/muscle_model/wiki>`_ implemented
 in NEURON and are porting this to be fully NeuroML2 compliant.
 
+There is an `introductory video <https://www.youtube.com/watch?v=6AhKE2Vg_Uw>`_ available to explain the concepts of this module. Visit `this page <as;ldkf>`_ for a review of the materials covered in the lecture.
+
 Current roadmap
 ---------------
 
